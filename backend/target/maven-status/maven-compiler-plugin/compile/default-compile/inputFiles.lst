@@ -1,0 +1,8 @@
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\controller\TaskController.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\domain\Task.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\domain\TaskStatus.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\dto\CreateTaskRequest.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\dto\TaskResponse.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\repository\TaskRepository.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\service\TaskService.java
+C:\Users\Antoniu\licenta\backend\src\main\java\ro\taskflow\TaskflowApplication.java
